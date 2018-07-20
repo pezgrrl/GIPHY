@@ -15,7 +15,7 @@ $(document).on("click", ".showBtn", function () {
 
 	var showGif = $(this).attr("data-name");
 
-	var queryURL = "http://api.giphy.com/v1/gifs/search?q=tv+show+" + showGif + "&limit=10&api_key=zDIJH55N7CYwzugMYjAyXiGGspBMr7fb";
+	var queryURL = "https://api.giphy.com/v1/gifs/search?q=tv+show+" + showGif + "&limit=10&api_key=zDIJH55N7CYwzugMYjAyXiGGspBMr7fb";
 
 
 	$.ajax({
