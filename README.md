@@ -4,3 +4,4 @@ In this assignment, you'll use the GIPHY API to make a dynamic web page that pop
 
 https://pezgrrl.github.io/GIPHY/
 
+![image](https://user-images.githubusercontent.com/38449432/46567166-ebdb9300-c8e2-11e8-9c71-4254acf21821.png)
